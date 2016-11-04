@@ -32,7 +32,67 @@
 					{
 	   "ptitle": {
 			"id": 2,
+			"title": "推荐商品"
+		},
+		"products": [
+			{
+				"id": 2662,
+				"imgUrl": "http://www.fornature.com/public/images/ec/92/f9/c7a663aad69c475684fcb79fcc6e4d38.jpg",
+				"dstUrl": "http://www.fornature.com/product-2662.html",
+				"price": "39.8",
+				"title": "百钻稀奶油1L"
+			},
+			{
+				"id": 2666,
+				"imgUrl": "http://www.fornature.com/public/images/90/7e/0c/46539ee6fffb0309a1a97a7191228247.jpg",
+				"dstUrl": "http://www.fornature.com/product-2666.html",
+				"price": "21.4起",
+				"title": "苏式月饼套餐"
+			},
+			{
+				"id": 2659,
+				"imgUrl": "http://www.fornature.com/public/images/50/61/97/dc4fd51e62c7aeb8813ca15ebbfa1278.jpg",
+				"dstUrl": "http://www.fornature.com/product-2659.html",
+				"price": "35.8",
+				"title": "百钻咸蛋黄180g"
+			}
+			
+		]
+	},
+					{
+	   "ptitle": {
+			"id": 3,
 			"title": "安琪礼包"
+		},
+		"products": [
+			{
+				"id": 2662,
+				"imgUrl": "http://www.fornature.com/public/images/ec/92/f9/c7a663aad69c475684fcb79fcc6e4d38.jpg",
+				"dstUrl": "http://www.fornature.com/product-2662.html",
+				"price": "39.8",
+				"title": "百钻稀奶油1L"
+			},
+			{
+				"id": 2666,
+				"imgUrl": "http://www.fornature.com/public/images/90/7e/0c/46539ee6fffb0309a1a97a7191228247.jpg",
+				"dstUrl": "http://www.fornature.com/product-2666.html",
+				"price": "21.4起",
+				"title": "苏式月饼套餐"
+			},
+			{
+				"id": 2659,
+				"imgUrl": "http://www.fornature.com/public/images/50/61/97/dc4fd51e62c7aeb8813ca15ebbfa1278.jpg",
+				"dstUrl": "http://www.fornature.com/product-2659.html",
+				"price": "35.8",
+				"title": "百钻咸蛋黄180g"
+			}
+			
+		]
+	},
+					{
+	   "ptitle": {
+			"id": 4,
+			"title": "线下diy"
 		},
 		"products": [
 			{
