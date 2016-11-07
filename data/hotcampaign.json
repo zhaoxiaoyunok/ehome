@@ -1,123 +1,202 @@
 [
-	{
-	   "ptitle": {
-			"id": 1,
-			"title": "每周特惠"
-		},
-		"products": [
-			{
-				"id": 2662,
-				"imgUrl": "http://www.fornature.com/public/images/ec/92/f9/c7a663aad69c475684fcb79fcc6e4d38.jpg",
-				"dstUrl": "http://www.fornature.com/product-2662.html",
-				"price": "39.8",
-				"title": "百钻稀奶油1L"
-			},
-			{
-				"id": 2666,
-				"imgUrl": "http://www.fornature.com/public/images/90/7e/0c/46539ee6fffb0309a1a97a7191228247.jpg",
-				"dstUrl": "http://www.fornature.com/product-2666.html",
-				"price": "21.4起",
-				"title": "苏式月饼套餐"
-			},
-			{
-				"id": 2659,
-				"imgUrl": "http://www.fornature.com/public/images/50/61/97/dc4fd51e62c7aeb8813ca15ebbfa1278.jpg",
-				"dstUrl": "http://www.fornature.com/product-2659.html",
-				"price": "35.8",
-				"title": "百钻咸蛋黄180g"
-			}
-			
-		]
-	},
-					{
-	   "ptitle": {
-			"id": 2,
-			"title": "推荐商品"
-		},
-		"products": [
-			{
-				"id": 2662,
-				"imgUrl": "http://www.fornature.com/public/images/ec/92/f9/c7a663aad69c475684fcb79fcc6e4d38.jpg",
-				"dstUrl": "http://www.fornature.com/product-2662.html",
-				"price": "39.8",
-				"title": "百钻稀奶油1L"
-			},
-			{
-				"id": 2666,
-				"imgUrl": "http://www.fornature.com/public/images/90/7e/0c/46539ee6fffb0309a1a97a7191228247.jpg",
-				"dstUrl": "http://www.fornature.com/product-2666.html",
-				"price": "21.4起",
-				"title": "苏式月饼套餐"
-			},
-			{
-				"id": 2659,
-				"imgUrl": "http://www.fornature.com/public/images/50/61/97/dc4fd51e62c7aeb8813ca15ebbfa1278.jpg",
-				"dstUrl": "http://www.fornature.com/product-2659.html",
-				"price": "35.8",
-				"title": "百钻咸蛋黄180g"
-			}
-			
-		]
-	},
-					{
-	   "ptitle": {
-			"id": 3,
-			"title": "安琪礼包"
-		},
-		"products": [
-			{
-				"id": 2662,
-				"imgUrl": "http://www.fornature.com/public/images/ec/92/f9/c7a663aad69c475684fcb79fcc6e4d38.jpg",
-				"dstUrl": "http://www.fornature.com/product-2662.html",
-				"price": "39.8",
-				"title": "百钻稀奶油1L"
-			},
-			{
-				"id": 2666,
-				"imgUrl": "http://www.fornature.com/public/images/90/7e/0c/46539ee6fffb0309a1a97a7191228247.jpg",
-				"dstUrl": "http://www.fornature.com/product-2666.html",
-				"price": "21.4起",
-				"title": "苏式月饼套餐"
-			},
-			{
-				"id": 2659,
-				"imgUrl": "http://www.fornature.com/public/images/50/61/97/dc4fd51e62c7aeb8813ca15ebbfa1278.jpg",
-				"dstUrl": "http://www.fornature.com/product-2659.html",
-				"price": "35.8",
-				"title": "百钻咸蛋黄180g"
-			}
-			
-		]
-	},
-					{
-	   "ptitle": {
-			"id": 4,
-			"title": "线下diy"
-		},
-		"products": [
-			{
-				"id": 2662,
-				"imgUrl": "http://www.fornature.com/public/images/ec/92/f9/c7a663aad69c475684fcb79fcc6e4d38.jpg",
-				"dstUrl": "http://www.fornature.com/product-2662.html",
-				"price": "39.8",
-				"title": "百钻稀奶油1L"
-			},
-			{
-				"id": 2666,
-				"imgUrl": "http://www.fornature.com/public/images/90/7e/0c/46539ee6fffb0309a1a97a7191228247.jpg",
-				"dstUrl": "http://www.fornature.com/product-2666.html",
-				"price": "21.4起",
-				"title": "苏式月饼套餐"
-			},
-			{
-				"id": 2659,
-				"imgUrl": "http://www.fornature.com/public/images/50/61/97/dc4fd51e62c7aeb8813ca15ebbfa1278.jpg",
-				"dstUrl": "http://www.fornature.com/product-2659.html",
-				"price": "35.8",
-				"title": "百钻咸蛋黄180g"
-			}
-			
-		]
-	}
-			 
+    {
+        "ptitle": {
+            "id": 1,
+            "title": "每周特惠"
+        },
+        "products": [
+            {
+                "id": 2659,
+                "imgUrl": "http://www.fornature.com/public/images/49/a3/05/61389282d99ea6c71ec6d3f34f94ebdf.jpg",
+                "dstUrl": "http://www.fornature.com/product-2659.html",
+                "price": "24.0",
+                "title": "百钻咸蛋黄180g 烘焙月饼原料 粽子寿司陷料 百钻 咸蛋黄月饼馅料 20粒"
+            },
+            {
+                "id": 2618,
+                "imgUrl": "http://www.fornature.com/public/images/a4/b0/e0/8a8ee03f83d12e08e5bf876b65903d9e.jpg",
+                "dstUrl": "http://www.fornature.com/product-2618.html",
+                "price": "20起",
+                "title": "酵母精华护手霜60g/支 轻盈柔润 细腻嫩滑"
+            },
+            {
+                "id": 2617,
+                "imgUrl": "http://www.fornature.com/public/images/bc/e7/e2/cd279d71fdb84202c7318db8657c014f.jpg",
+                "dstUrl": "http://www.fornature.com/product-2617.html",
+                "price": "35.8",
+                "title": "酵母精华眼霜15g/支 紧致光滑 弹性丰盈"
+            },
+            {
+                "id": 2468,
+                "imgUrl": "http://www.fornature.com/public/images/4e/b8/f7/07058085f7670479ce2808530a233d4d.jpg",
+                "dstUrl": "http://www.fornature.com/product-2468.html",
+                "price": "9.00",
+                "title": "法国进口百钻黄油原装200g动物性食用发酵黄油块面包烘焙原料"
+            },
+            {
+                "id": 2234,
+                "imgUrl": "http://www.fornature.com/public/images/4c/a1/3e/8a82a7c424036da189031a7c0a77b94f.jpg",
+                "dstUrl": "http://www.fornature.com/product-2234.html",
+                "price": "7.60",
+                "title": "烘焙原料 金菲利耐高温黑巧克力币 巧克力砖块100g"
+            },
+            {
+                "id": 2231,
+                "imgUrl": "http://www.fornature.com/public/images/b3/0a/fd/fcb17643d7e843a1c047924e9f47011e.jpg",
+                "dstUrl": "http://www.fornature.com/product-2231.html",
+                "price": "8.60",
+                "title": "烘焙原料 金菲利扁桃仁粉  美国原装进口100g"
+            },
+            {
+                "id": 2229,
+                "imgUrl": "http://www.fornature.com/public/images/9e/00/18/624e032d314a3ad51c4c56cd24b06550.jpg",
+                "dstUrl": "http://www.fornature.com/product-2229.html",
+                "price": "5.50",
+                "title": "烘焙原料 金菲利蔓越莓干 面包/饼干/蛋糕 原装100g"
+            }
+        ]
+    },
+    {
+        "ptitle": {
+            "id": 2,
+            "title": "推荐商品"
+        },
+        "products": [
+            {
+                "id": 1504,
+                "imgUrl": "http://www.fornature.com/public/images/fe/07/16/25542d75b56bba0a1dc390de24044093.jpg",
+                "dstUrl": "http://www.fornature.com/product-1504.html",
+                "price": "78.00",
+                "title": "开智乳矿物盐咀嚼片60克/盒"
+            },
+            {
+                "id": 626,
+                "imgUrl": "http://www.fornature.com/public/images/6d/93/0d/db864064113d7bacd192760605d841b5.jpg",
+                "dstUrl": "http://www.fornature.com/product-2666.html",
+                "price": "76.00",
+                "title": "苏式月饼套餐开智核桃油120毫升/瓶"
+            },
+            {
+                "id": 87,
+                "imgUrl": "http://www.fornature.com/public/images/a9/0b/73/18371cfe60266f8b08afcddd226dd1bb.jpg",
+                "dstUrl": "http://www.fornature.com/product-2666.html",
+                "price": "119.00",
+                "title": "安琪纽特酵母多糖胶囊90粒27克/盒"
+            },
+            {
+                "id": 1359,
+                "imgUrl": "http://www.fornature.com/public/images/c4/de/dd/eaefd9cb3c5f332818af26ecdd26b946.jpg",
+                "dstUrl": "http://www.fornature.com/product-1359.html",
+                "price": "12.00",
+                "title": "百钻米发糕预拌粉300克/盒"
+            }
+        ]
+    },
+    {
+        "ptitle": {
+            "id": 3,
+            "title": "安琪礼包"
+        },
+        "products": [
+            {
+                "id": 1554,
+                "imgUrl": "http://www.fornature.com/public/images/96/4c/f7/aac4b461b6a0f1cd68d4a4c3356b4873.jpg",
+                "dstUrl": "http://www.fornature.com/product-1554.html",
+                "price": "88.00",
+                "title": "快乐DIY礼盒—安琪家庭DIY礼盒"
+            },
+            {
+                "id": 1553,
+                "imgUrl": "http://www.fornature.com/public/images/c5/7f/18/a4fe7e13dee2b2db2821319fb2014e33.jpg",
+                "dstUrl": "http://www.fornature.com/product-1553.html",
+                "price": "200.00",
+                "title": "甜蜜烘焙礼盒—安琪e家烘焙礼盒"
+            },
+            {
+                "id": 2027,
+                "imgUrl": "http://www.fornature.com/public/images/03/a4/be/401ca62431e9ab09ba27ee5f99aee62c.jpg",
+                "dstUrl": "http://www.fornature.com/product-2027.html",
+                "price": "320.00",
+                "title": "东菱多功能烤箱套餐（烤箱+戚风+布朗尼+烤肉料）"
+            }
+        ]
+    },
+    {
+        "ptitle": {
+            "id": 4,
+            "title": "线下diy"
+        },
+        "products": [
+            {
+                "id": 1350,
+                "imgUrl": "http://www.fornature.com/public/images/15/b9/1f/aad22d02b2591c92dff799f5e2b8dc89.jpg",
+                "dstUrl": "http://www.fornature.com/product-1350.html",
+                "price": "68.0",
+                "title": "自制葡式蛋挞"
+            },
+            {
+                "id": 1348,
+                "imgUrl": "http://www.fornature.com/public/images/30/bb/5a/e13cf41d9cbe53a8dbcc4fab2e4c5cb3.jpg",
+                "dstUrl": "http://www.fornature.com/product-1348.html",
+                "price": "108.00",
+                "title": "巧克力胚cupcake"
+            },
+            {
+                "id": 1344,
+                "imgUrl": "http://www.fornature.com/public/images/25/17/b4/339c2b55616d22415b9c27da12b6edf5.jpg",
+                "dstUrl": "http://www.fornature.com/product-1344.html",
+                "price": "188.0",
+                "title": "水果裸蛋糕"
+            },
+            {
+                "id": 1343,
+                "imgUrl": "http://www.fornature.com/public/images/10/79/01/968dc68dd209c718f41fad60edbadcc5.jpg",
+                "dstUrl": "http://www.fornature.com/product-1343.html",
+                "price": "188.00",
+                "title": "鲜花巧克力裸蛋糕"
+            },
+            {
+                "id": 1342,
+                "imgUrl": "http://www.fornature.com/public/images/08/b2/47/bdc7d195c329187e5cbbbc9887090d73.jpg",
+                "dstUrl": "http://www.fornature.com/product-1342.html",
+                "price": "88.0",
+                "title": "戚风蛋糕"
+            },
+            {
+                "id": 1341,
+                "imgUrl": "http://www.fornature.com/public/images/be/46/47/6fe36282735aa744bc11876ce68e059b.jpg",
+                "dstUrl": "http://www.fornature.com/product-1341.html",
+                "price": "88.00",
+                "title": "培根火腿披萨"
+            },
+            {
+                "id": 1340,
+                "imgUrl": "http://www.fornature.com/public/images/d1/7d/ca/c2a6b4f030bda69c0f7009e2f406edf6.jpg",
+                "dstUrl": "http://www.fornature.com/product-1340.html",
+                "price": "88.0",
+                "title": "自制黄油饼干"
+            },
+            {
+                "id": 1289,
+                "imgUrl": "http://www.fornature.com/public/images/06/68/03/aa9586b5964b52597ac81423a629a03d.jpg",
+                "dstUrl": "http://www.fornature.com/product-1289.html",
+                "price": "128.00",
+                "title": "自制新鲜水果塔"
+            },
+            {
+                "id": 1288,
+                "imgUrl": "http://www.fornature.com/public/images/29/ff/b7/92c88551db65cddd7c61b66b28240a01.jpg",
+                "dstUrl": "http://www.fornature.com/product-1288.html",
+                "price": "108.0",
+                "title": "自制凯撒大帝"
+            },
+            {
+                "id": 1287,
+                "imgUrl": "http://www.fornature.com/public/images/38/2c/84/bff5d2d28cb2a74ecc3ede103b9a3d5f.jpg",
+                "dstUrl": "http://www.fornature.com/product-1287.html",
+                "price": "108.00",
+                "title": "草莓巧克力蛋糕"
+            }
+        ]
+    }
 ]
