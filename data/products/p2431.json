@@ -1,0 +1,34 @@
+{
+    "attr": {
+        "id": 2431,
+        "title": "百钻布丁粉 果冻粉100g草莓味原味自制果冻甜品材料diy烘焙原料",
+        "categoryID": 111,
+        "sn": "E83001291",
+        "an": "E83001292",
+        "galleryUrls": [
+            "http://www.fornature.com/public/images/77/5b/3e/df8a1de88bc8df4e6a7c2cc34f8c4eec.jpg",
+            "http://www.fornature.com/public/images/77/5b/3e/df8a1de88bc8df4e6a7c2cc34f8c4eec.jpg",
+            "http://www.fornature.com/public/images/bc/d8/e4/8cc745026e644f782daac6faa3853619.jpg",
+            "http://www.fornature.com/public/images/ba/44/3c/75d1e3b3b02dfca8f31e0df826d30780.jpg",
+            "http://www.fornature.com/public/images/d5/c9/d4/1a026bfebff75e364969109cac96f898.jpg"
+        ],
+        "stockCount": 99,
+        "commentScore": 100,
+        "descDetail": "百钻布丁粉 果冻粉100g草莓味原味自制果冻甜品材料diy烘焙原料",
+        "promotionId": 999
+    },
+    "specs": [
+        {
+            "id": 3228,
+            "title": "奶味",
+            "an": "E83001292",
+            "price": 9.90
+        },
+        {
+            "id": 3229,
+            "title": "草莓味",
+            "an": "E83001291",
+            "price": 9.90
+        }
+    ]
+}
