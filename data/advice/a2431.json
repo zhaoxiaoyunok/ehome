@@ -1,0 +1,56 @@
+[
+    {
+        "id": "a1",
+        "id_session": "s1",
+        "id_customer": "customer10000",
+        "id_service": null,
+        "content": "请问这款产品与面粉如何配比？",
+        "date": "2016-08-08",
+        "type": "ask"
+    },
+    {
+        "id": "a2",
+        "id_session": "s1",
+        "id_customer": null,
+        "id_service": "service1",
+        "content": "1kg本产品对应10kg面粉，请知悉，谢谢",
+        "date": "2016-08-08",
+        "type": "reply"
+    },
+    {
+        "id": "a3",
+        "id_session": "s1",
+        "id_customer": "customer10000",
+        "id_service": null,
+        "content": "好的，谢谢回复",
+        "date": "2016-08-08",
+        "type": "ask"
+    },
+    {
+        "id": "a4",
+        "id_session": "s2",
+        "id_customer": "customer10000",
+        "id_service": null,
+        "content": "请问这款产品与面粉如何配比？",
+        "date": "2016-09-08",
+        "type": "ask"
+    },
+    {
+        "id": "a5",
+        "id_session": "s3",
+        "id_customer": "customer10000",
+        "id_service": null,
+        "content": "请问这款产品与面粉如何配比？",
+        "date": "2016-10-08",
+        "type": "ask"
+    },
+    {
+        "id": "a6",
+        "id_session": "s3",
+        "id_customer": null,
+        "id_service": "service1",
+        "content": "1kg本产品对应10kg面粉，请知悉，谢谢",
+        "date": "2016-10-08",
+        "type": "reply"
+    }
+]
