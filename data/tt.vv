@@ -1,0 +1,13 @@
+[virt-viewer]
+type=spice
+host=192.168.1.49
+port=5900
+password=71c8f2c6767d1701e9463aee7080088d
+fullscreen=1
+title=VM: test1- SHIFT+F12 release
+enable-smartcard=0
+enable-usb-autoshare=1
+delete-this-file=1
+usb-filter=-1,-1,-1,-1,0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
