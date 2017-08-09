@@ -1,0 +1,6 @@
+{
+    "packageName":"com.android.launcher3",
+    "apkName":"Launcher3",
+    "versionCodeNew": 2828,
+    "versionNameNew": "28.2.8.1"
+}
